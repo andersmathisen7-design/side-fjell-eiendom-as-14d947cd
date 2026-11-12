@@ -1,0 +1,25 @@
+{
+  "name": "Fjell Eiendom AS",
+  "short_name": "Fjell",
+  "description": "Fjell Eiendom AS gjør grunnarbeid med base i Ytre Enebakk. Ta kontakt og fortell hva du har planlagt på tomten din.",
+  "lang": "nb",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#e2a72e",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ]
+}
